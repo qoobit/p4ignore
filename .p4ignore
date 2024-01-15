@@ -1,0 +1,14 @@
+# UE Project Base
+DerivedDataCache/*
+Intermediate/*
+Plugins/*/Intermediate/*
+Binaries/*
+Plugins/*/Binaries/*
+Saved/*
+
+# VS Code
+.vs/*
+
+# Houdini
+*_bak*.hdalc
+*_bak*.hda

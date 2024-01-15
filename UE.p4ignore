@@ -1,0 +1,7 @@
+# UE Project Base
+DerivedDataCache/*
+Intermediate/*
+Plugins/*/Intermediate/*
+Binaries/*
+Plugins/*/Binaries/*
+Saved/*
